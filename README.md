@@ -79,4 +79,5 @@ http://www.ubuntu.com/business/services/cloud
 
 
 Last login: Wed Jul 5 23:16:39 2017 from 10.0.2.2
+
 ubuntu@ubuntu-xenial:~$ 
